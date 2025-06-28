@@ -14,14 +14,14 @@
 
 ## 👋 About Me
 
-I’m a passionate and ambitious data scientist currently halfway through my bootcamp at **Moringa School** in Nairobi. I love turning messy data into actionable insights and building models that make a difference.
+I'm a Data Scientist-in-training with a strong foundation in finance, credit risk, and analytics. After over 2 years in financial services, I'm now leveraging Python, SQL, and machine learning to drive data-informed business decisions. This portfolio highlights my hands-on projects, blending business context with technical execution.
 
 ---
 
 ## 📌 Quick Facts
 
 - 🛠️ **I’m currently working on**: a customer service analysis project using real-world call data to improve business decision-making.
-- 🌱 **I’m currently learning**: advanced machine learning, Streamlit dashboards, and exploratory data storytelling.
+- 🌱 **I’m currently learning**: advance 🎓 Currently Learning Machine Learning (clustering, time series), Cloud tools (BigQuery, AWS basics), Building interactive dashboards
 - 👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
 - 🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
 - 💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
@@ -43,20 +43,48 @@ I’m a passionate and ambitious data scientist currently halfway through my boo
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
+## 📈 Skills
+
+- **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL  
+- **Data Tools**: Power BI, Tableau, Google Data Studio  
+- **Machine Learning**: Regression, Classification  
+- **Business Tools**: Excel (advanced), Google Sheets (automations), Financial Modeling  
+- **Version Control**: Git, GitHub  
+- **Soft Skills**: Communication, Reporting, Teamwork, Customer Focus
 
 ## 📂 Featured Projects
 
+### 1. ☕ Coffee Shop Inventory & Sales Dashboard
+- **Tools**: Google Sheets, Python, Data Studio
+- **Description**: Developed an inventory and sales management system for a local coffee shop. Included stock tracking, low-stock alerts, and automated daily sales summaries.
+- **Business Value**: Helped reduce stockouts and optimize reorder cycles.
+- **[View Project](https://github.com/Rodhiambo7/coffee-inventory-tracker)**
+
+---
+
+### 2. ✈️ Aviation Accident Data Analysis
+- **Tools**: Pandas, Seaborn, Plotly, Google Colab
+- **Description**: Analyzed aviation accident data to identify trends in aircraft make, engine type, and damage levels. Presented visual insights and recommendations.
+- **Business Value**: Supports aircraft purchasing decisions and safety strategies.
+- **[View Project](https://github.com/Rodhiambo7/aviation-data-analysis)**
+
+---
+
 ### 🧠 [Carwash Call Data Analysis](https://github.com/yourusername/carwash-call-data)
 > Customer service improvement using pandas, cleaning, EDA, and visualization.
-
-### ☕ [Coffee Inventory Tracker](https://github.com/yourusername/coffee-inventory)
-> Designed an inventory tool with stock alerts, visual insights, and dashboards.
 
 ### 🚢 [Titanic ML Prediction](https://github.com/yourusername/titanic-prediction)
 > A classic machine learning classifier using logistic regression, RandomForest, and XGBoost.
 
 ### 🔋 [Zindi Solar Forecasting Challenge](https://github.com/yourusername/zindi-solar)
 > Solar output time series forecast using XGBoost and MAPE optimization.
+
+
+## 📫 Let's Connect!
+- **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/)
+- **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7)
+- **Email**: rakothodhiambo@gmail.com
+
 
 ---
 
@@ -72,4 +100,6 @@ I’m a passionate and ambitious data scientist currently halfway through my boo
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=100&section=footer"/>
 </p>
+
+ *“Turning data into decisions — one insight at a time.”*
 
