@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- Animated Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rodhiambo7/Rodhiambo7/main/Banner.gif" alt="Ray's Animated Banner" width="100%" />
@@ -13,7 +12,7 @@
 ---
 <img src="https://raw.githubusercontent.com/Rodhiambo7/Rodhiambo7/main/banner.png" alt="Banner" width="100%">
 
-# Hi 👋, I'm Ray Odhiambo
+# Hi 👋, I'm Rachel Odhiambo
 
 🎓 Data Science Student at Moringa School  
 📍 Based in Nairobi, Kenya  
