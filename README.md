@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<!-- HEADER -->
+<!-- Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:3498db&height=180&section=header&text=Hi%20there!%20I'm%20Ray%20Odhiambo%20👋&fontSize=28&fontColor=ffffff" />
+  <img src="https://raw.githubusercontent.com/Rodhiambo7/Rodhiambo7/main/banner.gif" alt="Ray's Animated Banner" width="100%" />
 </p>
+
 
 <p align="center">
   <b>📊 Data Scientist in Training @ Moringa School | Python • ML • Analytics | Based in Kenya</b><br>
