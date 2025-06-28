@@ -20,26 +20,16 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 
 ## 📌 Quick Facts
 
-- 🛠️ **I’m currently working on**: a customer service analysis project using real-world call data to improve business decision-making.
-- 🌱 **I’m currently learning**: Machine Learning (clustering, time series), Cloud tools (BigQuery, AWS basics), Building interactive dashboards
-- 👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
-- 🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
-- 💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
-- 📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7),  **Email**: rakothodhiambo@gmail.com
+🛠️ **I’m currently working on**: a customer service analysis project using real-world call data to improve business decision-making.
+🌱 **I’m currently learning**: Machine Learning (clustering, time series), Cloud tools (BigQuery, AWS basics), Building interactive dashboards
+👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
+🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
+💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
+📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7),  **Email**: rakothodhiambo@gmail.com
   
 - 😄 **Pronouns**: she/her  
 - ⚡ **Fun fact**: I love travelling and working out.
 
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
@@ -85,21 +75,6 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 - **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7)
 - **Email**: rakothodhiambo@gmail.com
 
----
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### 🧰 Languages and Tools
 
 <p align="left">
@@ -117,8 +92,6 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -126,26 +99,10 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
   <img src="https://github-readme-stats.vercel.app/api?username=Rodhiambo7&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
----
-
 ### 🔰 GitHub Contribution Rank
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rodhiambo7&theme=highcontrast)](https://git.io/streak-stats)
 
----
-
-## 📈 GitHub Stats (Optional)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="400"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3498db&height=100&section=footer"/>
-</p>
 
  *“Turning data into decisions — one insight at a time.”*
 
