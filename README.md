@@ -20,12 +20,12 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 
 ## 📌 Quick Facts
 
-🛠️ **I’m currently working on**: a customer service analysis project using real-world call data to improve business decision-making.
-🌱 **I’m currently learning**: Machine Learning (clustering, time series), Cloud tools (BigQuery, AWS basics), Building interactive dashboards
-👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
-🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
-💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
-📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7),  **Email**: rakothodhiambo@gmail.com
+-🛠️ **I’m currently working on**: a customer service analysis project using real-world call data to improve business decision-making.
+-🌱 **I’m currently learning**: Machine Learning (clustering, time series), Cloud tools (BigQuery, AWS basics), Building interactive dashboards
+-👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
+-🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
+-💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
+-📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7),  **Email**: rakothodhiambo@gmail.com
   
 - 😄 **Pronouns**: she/her  
 - ⚡ **Fun fact**: I love travelling and working out.
@@ -92,16 +92,20 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 </p>
 
-### 📊 GitHub Stats
+---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodhiambo7&layout=compact&theme=radical" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodhiambo7&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
+### 📊 GitHub Analytics
 
-### 🔰 GitHub Contribution Rank
+<div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rodhiambo7&theme=highcontrast)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=Rodhiambo7&show_icons=true&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodhiambo7&layout=compact&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rodhiambo7&theme=default&hide_border=true&background=ffffff" width="32%" />
+
+</div>
+
 
 
  *“Turning data into decisions — one insight at a time.”*
