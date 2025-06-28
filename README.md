@@ -3,26 +3,19 @@
   <img src="https://raw.githubusercontent.com/Rodhiambo7/Rodhiambo7/main/Banner.gif" alt="Ray's Animated Banner" width="100%" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Rachel Odhiambo</h1>
+
 
 <p align="center">
-  <b>📊 Data Scientist in Training @ Moringa School | Python • ML • Analytics | Based in Kenya</b><br>
-  🌍 Turning African data into real-world solutions | 💡 Open to Internships & Collaborations
+  <b>📊 Data Scientist in Training @ Moringa School | Python • ML • Analytics | Based in Nairobi, Kenya.</b><br>
+  🌍  Passionate about using data to solve real-world problems| 💡 Open to Internships & Collaborations
 </p>
-
----
-<img src="https://raw.githubusercontent.com/Rodhiambo7/Rodhiambo7/main/banner.png" alt="Banner" width="100%">
-
-# Hi 👋, I'm Rachel Odhiambo
-
-🎓 Data Science Student at Moringa School  
-📍 Based in Nairobi, Kenya  
-🔍 Exploring Machine Learning, Data Analytics & Dashboard Design  
-💡 Passionate about using data to solve real-world problems  
-🌱 Currently learning: Object-Oriented Programming, Streamlit, and EDA best practices
 
 ## 👋 About Me
 
-I'm a Data Scientist-in-training with a strong foundation in finance, credit risk, and analytics. After over 2 years in financial services, I'm now leveraging Python, SQL, and machine learning to drive data-informed business decisions. This portfolio highlights my hands-on projects, blending business context with technical execution.
+I'm a Data Scientist-in-training with a background in finance, credit risk, and analytics.  
+With over 2 years of experience in the financial services sector, I'm now applying my skills in Python, SQL, and machine learning to solve real-world business problems.  
+This portfolio showcases my hands-on projects that combine business insight with technical execution to drive data-informed decision-making.
 
 ---
 
