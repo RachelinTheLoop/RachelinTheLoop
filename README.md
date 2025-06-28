@@ -25,8 +25,8 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 - 👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
 - 🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
 - 💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
-- 📫 **How to reach me**:  
-  [LinkedIn](https://linkedin.com/in/yourprofile) | yourname@gmail.com  
+- 📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7),  **Email**: rakothodhiambo@gmail.com
+  
 - 😄 **Pronouns**: she/her  
 - ⚡ **Fun fact**: I love solving logic puzzles and have a side hobby of learning creative TikTok storytelling!
 
