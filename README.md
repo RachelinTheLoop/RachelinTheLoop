@@ -20,17 +20,15 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 
 ## 📌 Quick Facts
 
--🛠️ **I’m currently working on**: a customer service analysis project using real-world call data to improve business decision-making.
--🌱 **I’m currently learning**: Machine Learning (clustering, time series), Cloud tools (BigQuery, AWS basics), Building interactive dashboards
--👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
--🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
--💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
--📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7),  **Email**: rakothodhiambo@gmail.com
+- 🛠️ **I’m currently working on**: a customer service analysis project using real-world call data to improve business decision-making.
+- 🌱 **I’m currently learning**: Machine Learning (clustering, time series), Cloud tools (BigQuery, AWS basics), Building interactive dashboards
+- 👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
+- 🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
+- 💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
+- 📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7),  **Email**: rakothodhiambo@gmail.com
   
 - 😄 **Pronouns**: she/her  
-- ⚡ **Fun fact**: I love travelling and working out.
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ⚡ **Fun fact**: I love travelling and working out
 
 ---
 ## 📈 Skills
@@ -60,6 +58,7 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 
 ---
 
+## Projects I am looking at:
 ### 🧠 [Carwash Call Data Analysis](https://github.com/yourusername/carwash-call-data)
 > Customer service improvement using pandas, cleaning, EDA, and visualization.
 
@@ -106,7 +105,16 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 
 </div>
 
+---
+
+Thanks for visiting my portfolio!  
+If you like what you see:
+- ⭐ Star a project  
+- 🤝 Connect on LinkedIn  
+- 💼 Recommend me for data roles
+
+Let’s use data to drive real impact—together! 📊✨
 
 
- *“Turning data into decisions — one insight at a time.”*
+
 
