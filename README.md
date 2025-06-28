@@ -63,9 +63,13 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 - **Tools**: Pandas, Seaborn, Plotly, Google Colab
 - **Description**: Analyzed aviation accident data to identify trends in aircraft make, engine type, and damage levels. Presented visual insights and recommendations.
 - **Business Value**: Supports aircraft purchasing decisions and safety strategies.
-- **[View Project](https://github.com/Rodhiambo7/aviation-data-analysis)**
+- **[View Project](https://github.com/Rodhiambo7/Aviation-Risk-Analysis.git)**
 
 ---
+
+## Projects I have collaborated on:
+### 🔋 [Movie Market Analysis](https://github.com/PrimeTonyCode/Movie-Market-Analysis.git)
+> Movie Market Analysis for best investment decisions
 
 ## Projects I am looking at:
 ### 🧠 [Carwash Call Data Analysis](https://github.com/yourusername/carwash-call-data)
@@ -74,8 +78,7 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 ### 🚢 [Titanic ML Prediction](https://github.com/yourusername/titanic-prediction)
 > A classic machine learning classifier using logistic regression, RandomForest, and XGBoost.
 
-### 🔋 [Zindi Solar Forecasting Challenge](https://github.com/yourusername/zindi-solar)
-> Solar output time series forecast using XGBoost and MAPE optimization.
+
 
 
 ## 📫 Let's Connect!
