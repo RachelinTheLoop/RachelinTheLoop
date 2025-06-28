@@ -13,9 +13,7 @@
 
 ## 👋 About Me
 
-I'm a Data Scientist-in-training with a background in finance, credit risk, and analytics.  
-With over 2 years of experience in the financial services sector, I'm now applying my skills in Python, SQL, and machine learning to solve real-world business problems.  
-This portfolio showcases my hands-on projects that combine business insight with technical execution to drive data-informed decision-making.
+I'm a Data Scientist-in-training with a background in finance, credit risk, and analytics. With over 2 years of experience in the financial services sector, I'm now applying my skills in Python, SQL, and machine learning to solve real-world business problems. This portfolio showcases my hands-on projects that combine business insight with technical execution to drive data-informed decision-making.
 
 ---
 
