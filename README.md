@@ -21,14 +21,14 @@ I'm a Data Scientist-in-training with a strong foundation in finance, credit ris
 ## 📌 Quick Facts
 
 - 🛠️ **I’m currently working on**: a customer service analysis project using real-world call data to improve business decision-making.
-- 🌱 **I’m currently learning**: advance 🎓 Currently Learning Machine Learning (clustering, time series), Cloud tools (BigQuery, AWS basics), Building interactive dashboards
+- 🌱 **I’m currently learning**: Machine Learning (clustering, time series), Cloud tools (BigQuery, AWS basics), Building interactive dashboards
 - 👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
 - 🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
 - 💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
 - 📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7),  **Email**: rakothodhiambo@gmail.com
   
 - 😄 **Pronouns**: she/her  
-- ⚡ **Fun fact**: I love solving logic puzzles and have a side hobby of learning creative TikTok storytelling!
+- ⚡ **Fun fact**: I love travelling and working out.
 
 ---
 
