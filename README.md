@@ -11,6 +11,15 @@
 </p>
 
 ---
+<img src="https://raw.githubusercontent.com/Rodhiambo7/Rodhiambo7/main/banner.png" alt="Banner" width="100%">
+
+# Hi 👋, I'm Ray Odhiambo
+
+🎓 Data Science Student at Moringa School  
+📍 Based in Nairobi, Kenya  
+🔍 Exploring Machine Learning, Data Analytics & Dashboard Design  
+💡 Passionate about using data to solve real-world problems  
+🌱 Currently learning: Object-Oriented Programming, Streamlit, and EDA best practices
 
 ## 👋 About Me
 
