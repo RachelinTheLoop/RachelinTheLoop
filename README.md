@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rodhiambo7/Rodhiambo7/main/Banner.gif" alt="Ray's Animated Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Rodhiambo7/Rodhiambo7/main/Mybanner.gif" alt="Ray's Animated Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rachel Odhiambo</h1>
