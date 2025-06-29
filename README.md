@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rodhiambo7/Rodhiambo7/main/Mybanner.gif" alt="Ray's Animated Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/RachelinTheLoop/RachelinTheLoop/main/Mybanner.gif" alt="Ray's Animated Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rachel Odhiambo</h1>
@@ -24,7 +24,7 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 - 👯 **I’m looking to collaborate on**: real-world projects (NGOs, small businesses, or startups) that use data for social or commercial impact.
 - 🤔 **I’m looking for help with**: building end-to-end ML pipelines, and model deployment (e.g., Streamlit, Flask, or cloud platforms).
 - 💬 **Ask me about**: Python, pandas, business analytics, Moringa School, or how to start learning data science in Kenya!
-- 📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7),  **Email**: rakothodhiambo@gmail.com
+- 📫 **How to reach me**: **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/), **GitHub**: [Rodhiambo7](https://github.com/RachelinTheLoop),  **Email**: rakothodhiambo@gmail.com
   
 - 😄 **Pronouns**: she/her  
 - ⚡ **Fun fact**: I love travelling and working out
@@ -45,7 +45,7 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 - **Tools**: Google Sheets, Python, Data Studio
 - **Description**: Developed an inventory and sales management system for a local coffee shop. Included stock tracking, low-stock alerts, and automated daily sales summaries.
 - **Business Value**: Helped reduce stockouts and optimize reorder cycles.
-- **[View Project](https://github.com/Rodhiambo7/coffee-inventory-tracker)**
+- **[View Project](https://github.com/RachelinTheLoop/coffee-inventory-tracker)**
 
 ---
 
@@ -53,19 +53,19 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 - **Tools**: Pandas, Seaborn, Plotly, Google Colab
 - **Description**: Analyzed aviation accident data to identify trends in aircraft make, engine type, and damage levels. Presented visual insights and recommendations.
 - **Business Value**: Supports aircraft purchasing decisions and safety strategies.
-- **[View Project](https://github.com/Rodhiambo7/Aviation-Risk-Analysis.git)**
+- **[View Project](https://github.com/RachelinTheLoop/Aviation-Risk-Analysis.git)**
 
 ---
 
 ## Projects I have collaborated on:
-### 🔋 [Movie Market Analysis](https://github.com/PrimeTonyCode/Movie-Market-Analysis.git)
+### 🔋 [Movie Market Analysis](https://github.com/PrimeTonyCode/Movie-Market-Analysis.git
 > Movie Market Analysis for best investment decisions
 
 ## Projects I am looking at:
-### 🧠 [Carwash Call Data Analysis](https://github.com/yourusername/carwash-call-data)
+### 🧠 [Carwash Call Data Analysis](https://github
 > Customer service improvement using pandas, cleaning, EDA, and visualization.
 
-### 🚢 [Titanic ML Prediction](https://github.com/yourusername/titanic-prediction)
+### 🚢 [Titanic ML Prediction](https://github)
 > A classic machine learning classifier using logistic regression, RandomForest, and XGBoost.
 
 
@@ -73,7 +73,7 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/)
-- **GitHub**: [Rodhiambo7](https://github.com/Rodhiambo7)
+- **GitHub**: [Rodhiambo7](https://github.com/RachelinTheLoop)
 - **Email**: rakothodhiambo@gmail.com
 
 ### 🧰 Languages and Tools
@@ -99,11 +99,11 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodhiambo7&show_icons=true&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RachelinTheLoop&show_icons=true&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodhiambo7&layout=compact&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachelinTheLoop&layout=compact&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rodhiambo7&theme=default&hide_border=true&background=ffffff" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RachelinTheLoop&theme=default&hide_border=true&background=ffffff" width="32%" />
 
 </div>
 
