@@ -58,14 +58,14 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 ---
 
 ## Projects I have collaborated on:
-### 🔋 [Movie Market Analysis](https://github.com/PrimeTonyCode/Movie-Market-Analysis.git
+### 🔋 [Movie Market Analysis](https://github.com/PrimeTonyCode/Movie-Market-Analysis.git)
 > Movie Market Analysis for best investment decisions
 
 ## Projects I am looking at:
-### 🧠 [Carwash Call Data Analysis](https://github
+### 🧠 [Carwash Call Data Analysis]
 > Customer service improvement using pandas, cleaning, EDA, and visualization.
 
-### 🚢 [Titanic ML Prediction](https://github)
+### 🚢 [Titanic ML Prediction]
 > A classic machine learning classifier using logistic regression, RandomForest, and XGBoost.
 
 
@@ -73,7 +73,7 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Rachel Odhiambo](https://www.linkedin.com/in/rachelodhiambo/)
-- **GitHub**: [Rodhiambo7](https://github.com/RachelinTheLoop)
+- **GitHub**: [RachelinTheLoop](https://github.com/RachelinTheLoop)
 - **Email**: rakothodhiambo@gmail.com
 
 ### 🧰 Languages and Tools
