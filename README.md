@@ -103,7 +103,7 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachelinTheLoop&layout=compact&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RachelinTheLoop&theme=default&hide_border=true&background=ffffff" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?username=RachelinTheLoop&theme=default&hide_border=true&background=ffffff" width="32%" />
 
 </div>
 
