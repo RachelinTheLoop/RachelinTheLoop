@@ -37,23 +37,22 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 - **Machine Learning**: Regression, Classification  
 - **Business Tools**: Excel (advanced), Google Sheets (automations), Financial Modeling  
 - **Version Control**: Git, GitHub  
-- **Soft Skills**: Communication, Reporting, Teamwork, Customer Focus
+- **Soft Skills**: Communication, Reporting, Teamwork, Customer Focu
 
-## 📂 Featured Projects
+## 📊 Featured Projects
 
-### 1. ☕ Coffee Shop Inventory & Sales Dashboard
-- **Tools**: Google Sheets, Python, Data Studio
-- **Description**: Developed an inventory and sales management system for a local coffee shop. Included stock tracking, low-stock alerts, and automated daily sales summaries.
-- **Business Value**: Helped reduce stockouts and optimize reorder cycles.
-- **[View Project](https://github.com/RachelinTheLoop/coffee-inventory-tracker)**
+### 1. 🔁 Customer Churn Prediction (SyriaTel Dataset)
+- **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, SMOTE
+- **Description**: Built and compared multiple classification models to predict customer churn, including Logistic Regression, Random Forest, and XGBoost. Applied SMOTE for class imbalance and evaluated using ROC, confusion matrix, and other key metrics.
+- **Business Value**: Helps telecom providers identify at-risk customers and reduce churn through targeted retention strategies.
+- **[View Project](https://github.com/RachelinTheLoop/predicting-customer-churn)**
 
----
 
-### 2. ✈️ Aviation Accident Data Analysis
+### 2. ✈ Aviation Accident Data Analysis
 - **Tools**: Pandas, Seaborn, Plotly, Google Colab
 - **Description**: Analyzed aviation accident data to identify trends in aircraft make, engine type, and damage levels. Presented visual insights and recommendations.
 - **Business Value**: Supports aircraft purchasing decisions and safety strategies.
-- **[View Project](https://github.com/RachelinTheLoop/Aviation-Risk-Analysis.git)**
+- **[View Project](https://github.com/RachelinTheLoop/Aviation-Risk-Analysis)**
 
 ---
 
@@ -64,10 +63,6 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 ## Projects I am looking at:
 ### 🧠 [Carwash Call Data Analysis]
 > Customer service improvement using pandas, cleaning, EDA, and visualization.
-
-### 🚢 [Titanic ML Prediction]
-> A classic machine learning classifier using logistic regression, RandomForest, and XGBoost.
-
 
 
 
