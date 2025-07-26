@@ -37,7 +37,7 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 - **Machine Learning**: Regression, Classification  
 - **Business Tools**: Excel (advanced), Google Sheets (automations), Financial Modeling  
 - **Version Control**: Git, GitHub  
-- **Soft Skills**: Communication, Reporting, Teamwork, Customer Focu
+- **Soft Skills**: Communication, Reporting, Teamwork, Customer Excellence
 
 ## 📊 Featured Projects
 
