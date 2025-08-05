@@ -48,7 +48,7 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 **🔒 Data Protection:** Customer phone numbers were anonymized using alias mapping techniques, ensuring strict privacy and professional handling of sensitive information throughout the project.  
 **🔗 [View Project](https://github.com/RachelinTheLoop/call-center-analytics)**
 
----
+
 
 ### 2. 🔁 Customer Churn Prediction   
 **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, SMOTE  
@@ -56,7 +56,7 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 **Business Value:** Helps telecom providers reduce churn by identifying at-risk customers early and supporting the design of personalized retention campaigns.  
 **🔗 [View Project](https://github.com/RachelinTheLoop/predicting-customer-churn)**
 
----
+
 
 ### 3. ✈ Aviation Accident Data Analysis  
 **Tools:** Pandas, Seaborn, Plotly, Google Colab  
@@ -101,10 +101,13 @@ This was my first project; since then, I have undergone so much learning and gro
 
 <div align="center">
 
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=RachelinTheLoop&show_icons=true&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
-  
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachelinTheLoop&layout=compact&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
-  
+
+  <!-- Streak Stats (FIXED HOSTING) -->
   <img src="https://streak-stats.demolab.com?user=RachelinTheLoop&theme=default&hide_border=true&background=ffffff" width="32%" />
 
 </div>
