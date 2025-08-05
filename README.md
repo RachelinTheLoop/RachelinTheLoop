@@ -41,18 +41,30 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 
 ## 📊 Featured Projects
 
-### 1. 🔁 Customer Churn Prediction (SyriaTel Dataset)
-- **Tools**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, SMOTE
-- **Description**: Built and compared multiple classification models to predict customer churn, including Logistic Regression, Random Forest, and XGBoost. Applied SMOTE for class imbalance and evaluated using ROC, confusion matrix, and other key metrics.
-- **Business Value**: Helps telecom providers identify at-risk customers and reduce churn through targeted retention strategies.
-- **[View Project](https://github.com/RachelinTheLoop/predicting-customer-churn)**
+### 1. 📞 Real-World Customer Care Call Analysis (Multi-Branch Carwash Business, Kenya)
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Plotly, Jupyter Notebook  
+**Description:** Led an end-to-end analysis of real customer service call records collected over multiple months from a premium carwash chain. Personally documented the calls, engineered features such as call periods, days, and hours, and visualized trends in reasons and responses, uncovering outlet-level operational insights. Presented findings in a professional Jupyter Notebook.  
+**Business Value:** Enabled data-driven improvements in customer care processes, identified service gaps per branch, and supported strategic decision-making with actionable insights. A dashboard is in development to further enhance operations monitoring.  
+**🔒 Data Protection:** Customer phone numbers were anonymized using alias mapping techniques, ensuring strict privacy and professional handling of sensitive information throughout the project.  
+**🔗 [View Project](https://github.com/RachelinTheLoop/call-center-analytics)**
 
+---
 
-### 2. ✈ Aviation Accident Data Analysis
-- **Tools**: Pandas, Seaborn, Plotly, Google Colab
-- **Description**: Analyzed aviation accident data to identify trends in aircraft make, engine type, and damage levels. Presented visual insights and recommendations.
-- **Business Value**: Supports aircraft purchasing decisions and safety strategies.
-- **[View Project](https://github.com/RachelinTheLoop/Aviation-Risk-Analysis)**
+### 2. 🔁 Customer Churn Prediction (SyriaTel Dataset)  
+**Tools:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, SMOTE  
+**Description:** Developed and evaluated multiple classification models to predict customer churn using historical telecom data. Explored the impact of regularization, applied SMOTE to address class imbalance, and assessed models with ROC curves, confusion matrices, and precision-recall metrics.  
+**Business Value:** Helps telecom providers reduce churn by identifying at-risk customers early and supporting the design of personalized retention campaigns.  
+**🔗 [View Project](https://github.com/RachelinTheLoop/predicting-customer-churn)**
+
+---
+
+### 3. ✈ Aviation Accident Data Analysis  
+**Tools:** Pandas, Seaborn, Plotly, Google Colab  
+**Description:** Analyzed aviation accident records to uncover trends by aircraft make, engine type, damage severity, and geographic location. Delivered compelling visuals and strategic recommendations based on data-driven evidence.  
+**Business Value:** Informs aircraft acquisition, risk management, and safety strategies for aviation stakeholders.  
+**🔗 [View Project](https://github.com/RachelinTheLoop/Aviation-Risk-Analysis)**
+This was my first project; since then, I have undergone a lot of learning and growth.
+
 
 ---
 
@@ -94,7 +106,7 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RachelinTheLoop&show_icons=true&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RachelinTheLoop&show_icons=true&theme=radical&bg_color=ffffff&hide_border=true" width="32%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachelinTheLoop&layout=compact&theme=default&bg_color=ffffff&hide_border=true" width="32%" />
   
@@ -102,7 +114,9 @@ I'm a Data Scientist-in-training with a background in finance, credit risk, and 
 
 </div>
 
+
 ---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RachelinTheLoop&theme=default)
 
 Thanks for visiting my portfolio!  
 If you like what you see:
