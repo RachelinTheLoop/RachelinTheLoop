@@ -98,7 +98,6 @@ This was my first project; since then, I have undergone so much learning and gro
 ---
 
 ### 📊 GitHub Analytics
-
 <table align="center">
   <tr>
     <td>
@@ -112,6 +111,8 @@ This was my first project; since then, I have undergone so much learning and gro
     </td>
   </tr>
 </table>
+
+
 
 ---
 
