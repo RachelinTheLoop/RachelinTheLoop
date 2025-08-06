@@ -99,19 +99,19 @@ This was my first project; since then, I have undergone so much learning and gro
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-
-  <!-- GitHub Stats (force refresh) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RachelinTheLoop&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&v=2" width="32%" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachelinTheLoop&layout=compact&theme=default&bg_color=ffffff&hide_border=true&v=2" width="32%" />
-
-  <!-- Streak Stats (with version busting to force load) -->
-  <img src="https://streak-stats.demolab.com?user=RachelinTheLoop&theme=default&hide_border=true&background=ffffff&v=2" width="32%" />
-
-</div>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=RachelinTheLoop&show_icons=true&theme=default&bg_color=ffffff&hide_border=true&v=2" width="300" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachelinTheLoop&layout=compact&theme=default&bg_color=ffffff&hide_border=true&v=2" width="300" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=RachelinTheLoop&theme=default&hide_border=true&background=ffffff&v=2" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
