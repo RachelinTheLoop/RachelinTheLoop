@@ -75,7 +75,6 @@ This was my first project; since then, I have undergone so much learning and gro
 Tools: Python, Pandas, Scikit-learn, NLTK, SpaCy, TF-IDF, Matplotlib, Seaborn, Streamlit, FastAPI
 Description: Designed and implemented an NLP-powered sentiment analysis system on over 5,000 real 2025 app reviews from the Google Play Store and Apple App Store for Kenya’s top telecom apps — M-PESA, MySafaricom, Airtel Money, and MyAirtel. Conducted extensive text preprocessing (tokenization, lemmatization, stopword removal), applied TF-IDF for feature extraction, and trained multiple machine learning models including Logistic Regression, SVM, XGBoost, and BERT. The best-performing model (Logistic Regression with SMOTE) was deployed via FastAPI and Streamlit for real-time sentiment prediction.
 Business Value: Enables telecom companies to monitor customer sentiment in real time, detect early warning signs from negative reviews, and enhance user experience based on data-driven insights. Revealed key issues such as app crashes, login errors, bundle pricing complaints, and low company response rates to negative reviews — offering clear opportunities for customer experience improvement and brand trust building.
-
 🔗 [View Project](https://github.com/jedidahkathure/Customer-Sentiments-Analysis.git)
 
 
